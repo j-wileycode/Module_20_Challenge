@@ -15,7 +15,7 @@ This project uses Solidity, Remix IDE, and Ganache testing software to create th
 
 ### Installation Guide
 
-In order to use this program please import and utilie the following libraries and dependencies: 
+In order to use this program please import and utilize the following libraries and dependencies: 
 
 ```pragma solidity ^0.5.0;```
 
